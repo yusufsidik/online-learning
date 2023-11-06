@@ -16,7 +16,7 @@ export default function Navbar(){
 
 
     return(
-        <div className="flex flex-col md:flex-row items-center justify-between max-w-screen-2xl mx-auto gap-6 md:gap-0">
+        <div className="flex flex-col md:flex-row items-center justify-between max-w-screen-2xl mx-auto gap-6 md:gap-0 bg-[#FFF2E1]">
             <div className="flex justify-between px-4 py-4 w-full md:w-fit">
                 <img src="/img/logo-skilline.png" className="cursor-pointer w-[80px] md:w-[150px]" />
                 <button className="md:hidden" onClick={clickMenu}>
