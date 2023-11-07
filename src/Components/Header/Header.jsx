@@ -43,7 +43,6 @@ export default function Header(){
                     </div>
                 </div>
             </section>
-            <div className="relative w-full h-[50px] bg-[#FFF2E1] rounded-br-[120% / 80px] rounded-bl-[120% / 80px]"></div>
         </section>
     )
 }
