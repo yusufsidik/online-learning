@@ -5,6 +5,8 @@ import Navbar from './Components/Navbar/Navbar'
 import Header from './Components/Header/Header'
 import Company from './Components/Company/Company'
 import Benefit from './Components/Benefit/Benefit'
+import Ask from './Components/Ask/Ask'
+
 ReactDOM.createRoot(document.getElementById('root')).render(
   
   <div className='w-full h-screen font-poppins overflow-x-hidden'>
@@ -15,6 +17,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <div className='px-4'>
       <Company></Company>
       <Benefit></Benefit>
+      <Ask></Ask>
     </div>
   </div>
   // <React.StrictMode>

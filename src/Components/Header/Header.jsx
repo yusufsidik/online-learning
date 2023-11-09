@@ -6,9 +6,9 @@ export default function Header(){
                 <div className="flex justify-between bg-[#FFF2E1] items-center">
                     <div className="w-full lg:w-5/12 py-16 lg:py-0">
                         <h1 className="font-bold text-[38px] lg:text-[54px] text-[#2F327D]"><span className="text-[#F48C06]">Studying</span> Online is now much easier</h1>
-                        <p className="text-[18px] lg:text-[24px] mt-[20px] lg:mt-[34px]">Skilline is an interesting platform that will teach you in more an interactive way</p>
+                        <p className="text-[16px] lg:text-[24px] mt-[20px] lg:mt-[34px]">Skilline is an interesting platform that will teach you in more an interactive way</p>
                         <div className="mt-[34px] lg:mt-[52px]">
-                            <button className="text-[18px] lg:text-[24px] text-white bg-orange-500 hover:bg-orange-600 px-5 lg:px-10 py-2 lg:py-5 rounded-full mr-4 lg:mr-10">Join for free</button>
+                            <button className="text-[16px] lg:text-[24px] text-white bg-orange-500 hover:bg-orange-600 px-5 lg:px-10 py-2 lg:py-5 rounded-full mr-4 lg:mr-10">Join for free</button>
                             <button>
                                 <img src="/img/play-button.png" className="w-[50px] lg:w-[80px] inline mr-4 lg:mr-10" />
                                 <span className="text-[16px] lg:text-[24px]">Watch how it works</span>

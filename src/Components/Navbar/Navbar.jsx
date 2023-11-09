@@ -8,7 +8,7 @@ export default function Navbar(){
     return(
         <div className="flex flex-col md:flex-row items-center justify-between max-w-screen-2xl mx-auto gap-6 md:gap-0 bg-[#FFF2E1]">
             <div className="flex justify-between px-4 py-4 w-full md:w-fit">
-                <img src="/img/logo-skilline.png" className="cursor-pointer w-[80px] md:w-[150px]" />
+                <img src="/img/logo-skilline.png" className="cursor-pointer w-[95px] md:w-[150px]" />
                 <button className="lg:hidden" onClick={() => setIsOpen(!isOpen)}>
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" className="w-6 h-6">
                         <path strokeLinecap="round" strokeLinejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5M12 17.25h8.25" />
