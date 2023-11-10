@@ -10,7 +10,7 @@ export default function Header(){
                         <div className="mt-[34px] lg:mt-[52px]">
                             <button className="text-[16px] lg:text-[24px] text-white bg-orange-500 hover:bg-orange-600 px-5 lg:px-10 py-2 lg:py-5 rounded-full mr-4 lg:mr-10">Join for free</button>
                             <button>
-                                <img src="/img/play-button.png" className="w-[50px] lg:w-[80px] inline mr-4 lg:mr-10" />
+                                <img src="/img/play-button.png" className="w-[40px] lg:w-[80px] inline mr-4 lg:mr-10" />
                                 <span className="text-[16px] lg:text-[24px]">Watch how it works</span>
                             </button>
                         </div>

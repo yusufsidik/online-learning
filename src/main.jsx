@@ -6,6 +6,8 @@ import Header from './Components/Header/Header'
 import Company from './Components/Company/Company'
 import Benefit from './Components/Benefit/Benefit'
 import Ask from './Components/Ask/Ask'
+import Everything from './Components/Everything/Everything'
+
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   
@@ -18,6 +20,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
       <Company></Company>
       <Benefit></Benefit>
       <Ask></Ask>
+      <Everything></Everything>
     </div>
   </div>
   // <React.StrictMode>

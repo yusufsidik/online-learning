@@ -4,7 +4,7 @@ export default function Benefit(){
             <div>
                 <div className="mb-[153px] text-center">
                     <h1 className="text-[28px] lg:text-[36px] text-[#2F327D] font-bold mb-[20px]">All-In-One <br /><span className="text-[#F48C06]">Cloud Software</span></h1>
-                    <p className="text-[18px] lg:text-[24px]">Skilline is one powerful online software suite that combines all the <br /> tools needed to run a successful school or office.</p>
+                    <p className="text-[18px] lg:text-[24px] text-[#696984]">Skilline is one powerful online software suite that combines all the <br /> tools needed to run a successful school or office.</p>
                 </div>
                 <div className="flex justify-center gap-28 lg:gap-8 text-center flex-wrap">
                     {/* card */}
