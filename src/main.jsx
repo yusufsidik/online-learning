@@ -7,7 +7,7 @@ import Company from './Components/Company/Company'
 import Benefit from './Components/Benefit/Benefit'
 import Ask from './Components/Ask/Ask'
 import Everything from './Components/Everything/Everything'
-
+import Features from './Components/Features/Features'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   
@@ -21,6 +21,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
       <Benefit></Benefit>
       <Ask></Ask>
       <Everything></Everything>
+      <Features></Features>
     </div>
   </div>
   // <React.StrictMode>

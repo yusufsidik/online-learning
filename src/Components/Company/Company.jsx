@@ -1,6 +1,6 @@
 export default function Company(){
     return (
-        <section className="max-w-screen-2xl mx-auto pt-[100px] pb-[160px]">
+        <section className="max-w-screen-2xl mx-auto pt-[100px] pb-[100px] lg:pb-[160px]">
             <div className="text-center">
                 <p className="text-[20px] lg:text-[28px] text-[#696984]">Trusted by 5,000+ Companies Worldwide</p>
                 <div className="flex justify-center items-end flex-wrap  gap-8 lg:gap-16 mt-[34px]">
