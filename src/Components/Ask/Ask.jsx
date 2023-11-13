@@ -12,14 +12,14 @@ export default function Benefit(){
                             <h1 className="text-[24px] lg:text-[32px] text-white font-semibold">FOR INSTRUCTORS</h1>
                             <button className="bg-transparent hover:bg-[#23BDEE] hover:border-transparent text-white text-[16px] lg:text-[22px] py-3 px-8 border-2 border-white rounded-full mt-[17px]">Start a class today</button>
                         </div>
-                        <img src="/img/for-instructors.jpg" />
-                    </div>
+                        <img src="/img/for-instructors.jpg" loading="lazy" />
+                    </div> 
                     <div className="relative w-full max-w-[400px] lg:max-w-[600px] flex justify-center flex-col items-center after:absolute after:bg-black after:w-full after:h-full after:bg-opacity-30 after:rounded-[20px]">
                         <div className="absolute z-10">
                             <h1 className="text-[24px] lg:text-[32px] text-white font-semibold">FOR STUDENTS</h1>
                             <button className="bg-transparent hover:bg-[#23BDEE] hover:border-transparent text-white text-[16px] lg:text-[22px] py-3 px-8 border-2 border-white rounded-full mt-[17px]">Enter access code</button>
                         </div>
-                        <img src="/img/for-students.jpg" />
+                        <img src="/img/for-students.jpg" loading="lazy" />
                     </div>
                 </div>
             </div>

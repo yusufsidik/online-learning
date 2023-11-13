@@ -8,9 +8,9 @@ export default function Everything(){
                     <p className="text-[18px] lg:text-[24px] text-[#696984] max-w-[730px] mt-[30px] mb-[30px]">Skilline’s school management software helps traditional and online schools manage scheduling, attendance, payments and virtual classrooms all in one secure cloud-based system.</p>
                     <a href="" className="underline text-[#696984] hover:text-black text-[16px] lg:text-[22px]">Learn more</a>
                     <img src="/img/elipse.png" className="w-[73px] absolute top-[-13px] left-[-25px]" />
-                </div>
+                </div> 
                 <div className="max-w-[705px] w-full relative before:hidden md:before:block before:absolute before:w-[138px] before:h-[138px] before:bg-[#23BDEE] before:rounded-[20px] before:top-[-20px] before:left-[-20px] after:hidden md:after:block after:absolute after:w-[231px] after:h-[231px] after:bg-[#F3AC50] after:rounded-[20px] after:bottom-[-20px] after:right-[-20px]">
-                    <img src="/img/image-video.jpg" className="rounded-[20px] relative z-10"/>
+                    <img src="/img/image-video.jpg" className="rounded-[20px] relative z-10" loading="lazy"/>
                     <img src="/img/play-button.png" className="absolute w-[50px] lg:w-[70px] top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%] cursor-pointer z-20" />
                 </div>
             </div>

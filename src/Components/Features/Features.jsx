@@ -7,11 +7,11 @@ export default function Features(){
                     <p className="text-[18px] lg:text-[24px] text-[#696984] max-w-[888px] mt-[20px] lg:mt-[30px] mx-auto">This very extraordinary feature, can make learning activities more efficient</p>
                 </div>
 
-                <div className="flex justify-between flex-col lg:gap-[126px] md:flex-row">
+                <div className="flex justify-between flex-col gap-6 lg:gap-[126px] md:flex-row">
                     <div className="max-w-[896px] relative">
-                        <img src="/img/features.png" className="w-full relative z-10" />
-                        <img src="/img/features-elipse-1.png" className="max-w-[190px] absolute top-[-76px] left-[63px]" />
-                        <img src="/img/features-elipse-2.png" className="max-w-[293px] absolute bottom-[-52px] right-[25px]" />
+                        <img src="/img/features.png" className="w-full relative z-10" loading="lazy" />
+                        <img src="/img/features-elipse-1.png" className="max-w-[190px] absolute top-[-76px] left-[63px] hidden lg:block" />
+                        <img src="/img/features-elipse-2.png" className="max-w-[293px] absolute bottom-[-52px] right-[25px] hidden lg:block" />
                     </div>
                     <div>
                         <h1 className="text-[#2F327D] text-[28px] lg:text-[38px] font-semibold">A <span className="text-[#F48C06]">user interface</span> designed for the classroom </h1>

@@ -8,6 +8,8 @@ import Benefit from './Components/Benefit/Benefit'
 import Ask from './Components/Ask/Ask'
 import Everything from './Components/Everything/Everything'
 import Features from './Components/Features/Features'
+import Tool from './Components/Tool/Tool'
+import Quiz from './Components/Quiz/Quiz'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   
@@ -22,6 +24,8 @@ ReactDOM.createRoot(document.getElementById('root')).render(
       <Ask></Ask>
       <Everything></Everything>
       <Features></Features>
+      <Tool></Tool>
+      <Quiz></Quiz>
     </div>
   </div>
   // <React.StrictMode>
