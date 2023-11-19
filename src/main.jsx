@@ -10,6 +10,8 @@ import Everything from './Components/Everything/Everything'
 import Features from './Components/Features/Features'
 import Tool from './Components/Tool/Tool'
 import Quiz from './Components/Quiz/Quiz'
+import ClassManagement from './Components/Class/ClassManagement'
+import Discuss from './Components/Discuss/Discuss'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   
@@ -26,6 +28,8 @@ ReactDOM.createRoot(document.getElementById('root')).render(
       <Features></Features>
       <Tool></Tool>
       <Quiz></Quiz>
+      <ClassManagement></ClassManagement>
+      <Discuss></Discuss>
     </div>
   </div>
   // <React.StrictMode>
