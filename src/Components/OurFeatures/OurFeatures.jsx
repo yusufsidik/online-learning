@@ -7,7 +7,7 @@ import Discuss from './Discuss/Discuss'
 
 export default function OurFeatures(){
     return(
-        <section className='max-w-screen-2xl mx-auto'>
+        <section className='max-w-screen-2xl mx-auto pb-[160px]'>
             <Features></Features>
             <Tool></Tool>
             <Quiz></Quiz>

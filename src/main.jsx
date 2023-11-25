@@ -8,6 +8,7 @@ import Benefit from './Components/Benefit/Benefit'
 import Ask from './Components/Ask/Ask'
 import Everything from './Components/Everything/Everything'
 import OurFeatures from './Components/OurFeatures/OurFeatures'
+import Integration from './Components/Integration/Integration'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   
@@ -23,6 +24,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
       <Everything></Everything>
       <OurFeatures></OurFeatures>
     </div>
+    <Integration></Integration>
   </div>
   // <React.StrictMode>
   // </React.StrictMode>,
